@@ -1,0 +1,14 @@
+<dishes>
+	<dish name="салат">
+        <ingridients>
+            <ingridient ingridient_name="помидор" quantity="100" measure="гр"/>
+            <ingridient ingridient_name="огурцы" quantity="100" measure="гр"/>
+        </ingridients>
+    </dish>
+	<dish name="омлет">
+        <ingridients>
+            <ingridient ingridient_name="яйца" quantity="2" measure="шт"/>
+            <ingridient ingridient_name="молоко" quantity="50" measure="мл"/>
+        </ingridients>
+    </dish>
+</dishes>
